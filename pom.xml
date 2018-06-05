@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.cb.springdata</groupId>
-	<artifactId>couchbase-java-sample</artifactId>
+	<artifactId>kubernetes-starter-kit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>couchbase-java-sample</name>
-	<description>Demo project for Spring Boot</description>
+	<name>kubernetes-starter-kit</name>
+	<description>Demo project for Spring Boot and Kubernetes</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
